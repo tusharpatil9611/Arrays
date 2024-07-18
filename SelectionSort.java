@@ -1,7 +1,7 @@
 package ArrayAssign;
 
 import java.util.Arrays;
-
+// selection sort mean swapping the lowest element to that position compare one element to other element of the array.
 public class SelectionSort {
 
 	public static void main(String[] args)
